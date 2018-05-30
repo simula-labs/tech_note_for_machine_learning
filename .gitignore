@@ -222,3 +222,11 @@ flycheck_*.el
 .dir-locals.el
 
 
+### https://raw.github.com/github/gitignore/48e6581139426a4dfc66f868350188144bb7098f/Global/Redis.gitignore
+
+# Ignore redis binary dump (dump.rdb) files
+
+*.rdb
+
+
+.idea
